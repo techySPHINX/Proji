@@ -1,0 +1,23 @@
+[
+ {
+   "id": 1,
+   "name": "Amrica",
+   "description": "A space exploration project.",
+   "startDate": "2023-01-01T00:00:00Z",
+   "endDate": "2023-12-31T00:00:00Z"
+ },
+ {
+   "id": 2,
+   "name": "Beatle",
+   "description": "Developing advanced navigation systems.",
+   "startDate": "2023-02-01T00:00:00Z",
+   "endDate": "2023-10-15T00:00:00Z"
+ },
+ {
+   "id": 3,
+   "name": "Caraking",
+   "description": "A project to boost renewable energy use.",
+   "startDate": "2023-03-05T00:00:00Z",
+   "endDate": "2024-03-05T00:00:00Z"
+ }
+]
